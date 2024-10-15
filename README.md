@@ -14,47 +14,47 @@ Sou estudante de Engenharia da Computação, com experiência em desenvolvimento
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="Python"/></code>
-<code><img height="32" src="https://juststickers.in/wp-content/uploads/2016/05/django-badge.png" alt="Django"/></code>
-<code><img height="32" src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+  <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="Python"/></code>
+  <code><img height="30" src="https://juststickers.in/wp-content/uploads/2016/05/django-badge.png" alt="Django"/></code>
+  <code><img height="30" src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+
 
 ## 🪧 Utilidades
 
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<code><img height="30" src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman"/></code>
 
 ## ⚙️ DevOps
+<code><img height="30" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git"/></code>
+<code><img height="30" src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"/></code>
+<code><img height="30" src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker"/></code>
+<code><img height="30" src="https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab"/></code>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
+
+
 
 ## 🪛Ferramentas de desenvolvimento
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<code><img height="30" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/></code>
+<code><img height="30" src="https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=white"/></code>
+<code><img height="30" src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC"/></code>
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Prado-Dev&show_icons=true)
 
 
 
 ![](https://komarev.com/ghpvc/?username=Pedro-Prado-Dev&color=006bed)
 
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro-Prado-Dev&theme=dracula&show_icons=true" />
-</a>
 
 ## Onde me encontrar
 
