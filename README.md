@@ -60,4 +60,4 @@ Sou estudante de Engenharia da Computação, com experiência em desenvolvimento
 
 [![Linkedin](https://img.shields.io/badge/-Pedro_Prado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-do-prado-paiva-81944921a/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pedro-henrique-do-prado-paiva-81944921a/))
 [![Gmail Badge](https://img.shields.io/badge/-pedroppaiva1@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroppaiva1@hotmail.com)](mailto:pedroppaiva1@hotmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Pedro-Prado-Dev)
+[![GitHub](https://img.shields.io/github/followers/Pedro-Prado-Dev?label=follow&style=social)](https://github.com/Pedro-Prado-Dev)
