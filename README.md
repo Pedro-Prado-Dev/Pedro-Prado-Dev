@@ -1,18 +1,17 @@
-## 👾 Olá, meu nome é Pedro Henrique do Prado!
+## 👾 Hello, my name is Pedro Henrique do Prado!
 
 
-## Sobre mim
+## About me
 
-Sou estudante de Engenharia da Computação, com experiência em desenvolvimento de soluções web utilizando Flask e Django, além de automações de tarefas para otimizar processos e aumentar a eficiência.
+I am a Computer Engineering, with experience in developing web solutions using Flask and Django, as well as task automation to optimize processes and increase efficiency.
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando engenharia da computação no INATEL.
-- 💼 Trabalhando como fullstack na CIDC INATEL.
-- 🌱 Aprendendo mais sobre python.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Computer engineer graduated from INATEL.
+- 💼 Working as a fullstack at CIDC INATEL.
+- 🌱 Learning more about python.
 
 
-
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
   <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="Python"/></code>
   <code><img height="30" src="https://juststickers.in/wp-content/uploads/2016/05/django-badge.png" alt="Django"/></code>
@@ -27,7 +26,7 @@ Sou estudante de Engenharia da Computação, com experiência em desenvolvimento
 
 
 
-## 🪧 Utilidades
+## 🪧 Utilities
 
 <code><img height="30" src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman"/></code>
 
@@ -40,7 +39,7 @@ Sou estudante de Engenharia da Computação, com experiência em desenvolvimento
 
 
 
-## 🪛Ferramentas de desenvolvimento
+## 🪛Development Tools
 
 <code><img height="30" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC"/></code>
 <code><img height="30" src="https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=white"/></code>
@@ -56,7 +55,7 @@ Sou estudante de Engenharia da Computação, com experiência em desenvolvimento
 ![](https://komarev.com/ghpvc/?username=Pedro-Prado-Dev&color=006bed)
 
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-Pedro_Prado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-do-prado-paiva-81944921a/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/pedro-henrique-do-prado-paiva-81944921a/))
 [![Gmail Badge](https://img.shields.io/badge/-pedroppaiva1@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroppaiva1@hotmail.com)](mailto:pedroppaiva1@hotmail.com)
