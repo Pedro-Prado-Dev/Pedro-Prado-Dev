@@ -16,6 +16,7 @@ I am a Computer Engineering, with experience in developing web solutions using F
   <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="Python"/></code>
   <code><img height="30" src="https://juststickers.in/wp-content/uploads/2016/05/django-badge.png" alt="Django"/></code>
   <code><img height="30" src="https://www.vhv.rs/dpng/d/609-6093398_prog-flask-flask-python-icon-png-transparent-png.png" alt="Flask"/></code>
+  <code><img height="30" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"/></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
